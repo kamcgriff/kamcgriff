@@ -3,11 +3,11 @@
   Kenya
   Kenyatta
 - 👀 I’m interested in learning new languages, trying new foods, and seeing as much of the world as possible. 
-🌱 I’m learning to speak German, Japanese, and Spanish. My primary focus is to speak and understand these languages at the same level as native speakers. 
+🌱 I’m learning to speak German, Japanese, Korean, Mandarin, and Spanish. My primary focus is to speak and understand these languages at the same level as native speakers, but for now I am a beginner in most. 
 - - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me here or via email.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’ve been to at least ten states other than Illinois, the Bahamas, and the District of Columbia.
+- ⚡ Fun fact: I’ve been to at least ten states other than Illinois (my home state), the Bahamas, and the District of Columbia.
 
 <!---
 kamcgriff/kamcgriff is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
